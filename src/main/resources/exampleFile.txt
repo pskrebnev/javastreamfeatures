@@ -1,0 +1,25 @@
+Bla-bla-bla
+
+In Java 7 the AsynchronousFileChannel was added to Java NIO.
+The AsynchronousFileChannel makes it possible to read data from,
+and write data to files asynchronously. This tutorial will explain how
+to use the AsynchronousFileChannel.
+
+Generate artificial datasets with the same characteristics
+as real data, so you can develop and test AI models
+without compromising privacy.
+
+Obsidian stores your notes as Markdown-formatted plain text files in a vault.
+ A vault is a folder on your local file system, including any subfolders.
+
+Because notes are plain text files, you can use other text editors and file
+ managers to edit and manage notes. Obsidian automatically refreshes your
+  vault to keep up with any external changes.
+
+You can create a vault anywhere your operating system allows. Obsidian
+ syncs with Obsidian Sync, Dropbox, iCloud, OneDrive, Git, and many other
+  third-party services.
+
+You can open multiple folders as individual vaults, for example
+ to separate notes for work and personal use.
+
